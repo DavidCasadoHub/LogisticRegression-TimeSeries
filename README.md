@@ -7,10 +7,10 @@
 
 Report:
 
-• An assessment of the components of the raw time series.
-• Fit a minimum of three candidate time series models to each. You may wish to consider simple models, exponential smoothing models and non-seasonal and/or seasonal ARIMA models.
-• Perform and explain the appropriate diagnostic tests and checks and describe the rationale for your choice of ‘optimum’ model for each series.
-• Forecast each series for three periods ahead with appropriate prediction intervals and illustrative graphics and provide your assessment of the adequacy of the chosen model.
+* An assessment of the components of the raw time series.
+* Fit a minimum of three candidate time series models to each. You may wish to consider simple models, exponential smoothing models and non-seasonal and/or seasonal ARIMA models.
+* Perform and explain the appropriate diagnostic tests and checks and describe the rationale for your choice of ‘optimum’ model for each series.
+* Forecast each series for three periods ahead with appropriate prediction intervals and illustrative graphics and provide your assessment of the adequacy of the chosen model.
 
 # Logistic regression
 
