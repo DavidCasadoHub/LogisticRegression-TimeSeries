@@ -18,7 +18,7 @@ Choose or create an appropriate dichotomous variable from the data and estimate 
 
 Report:
 
-• Descriptive statistics and appropriate visualisations to enhance understanding of the variables used.
-• Details of the model building steps you undertook in the process of arriving at your final model. Reasons for rejection of intermediate models should be explained clearly.
-• Appropriate diagnostics and an assessment of model fit.
-• A succinct summary of the parameters of your final model explaining the inclusion and influence of the independent variables.
+* Descriptive statistics and appropriate visualisations to enhance understanding of the variables used.
+* Details of the model building steps you undertook in the process of arriving at your final model. Reasons for rejection of intermediate models should be explained clearly.
+* Appropriate diagnostics and an assessment of model fit.
+* A succinct summary of the parameters of your final model explaining the inclusion and influence of the independent variables.
